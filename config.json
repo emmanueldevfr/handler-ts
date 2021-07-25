@@ -1,0 +1,7 @@
+{
+  "token": "YOUR_SUPER_SECRET_TOKEN_HERE",
+  "owner": {
+    "id": ""
+  },
+  "owners": ["OWNER_1_ID", "OWNER_2_ID", "OWNER_3_ID"]
+}
