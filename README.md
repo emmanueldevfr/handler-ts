@@ -99,6 +99,12 @@ This is an example of how to list things you need to use the software and how to
 
 ### The usage is pretty simple, but there is cuple of things we want to clarify :
 
+### 1. You have to learn TypeScript before using this command handler !
+
+### 2. You need to mention us in your code, following the MIT License
+
+### 3. If you need to contact me, send me a message in Discord, ` Enigma#3572`, or a mail `enigmatimson@gmail.com`
+
 <hr/>
 
 _For more examples, a future documentation is going to be written_
@@ -123,4 +129,4 @@ Distributed under the MIT License. See `LICENSE` for more information.=
 
 # ✨ | Special Message
 
-> ## This is a thanks message, to every single personne who help us develope this small project, and special thanks to ArviX for making this repository available ! 💖
+> ## This is a thanks message, to every single person who help us develop this small project, and special thanks to ArviX for making this repository available! 💖
