@@ -4,15 +4,11 @@ module.exports = (client, message) => {
   if (!message.channel.guild) {
     return;
   }
-
   const data: any = message.content;
-
   const args: string = data.slice(client.prefix.length).trim().split(/ +/g);
-
   if (!data.startsWith(client.prefix)) {
     return;
   }
-
   const command: any =
     client.commands.find((cmd) => cmd.aliases.includes(args[0])) ||
     client.commands.get(args[0]);
